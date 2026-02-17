@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Suraj 👋
 
-<!--
-**Suraj-Shetty08/Suraj-Shetty08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with hands-on experience in Excel and SQL.
+I focus on data cleaning, analysis, and building dashboards that
+translate data into clear business insights.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Excel (Dashboards, Pivot Tables, Power Query)
+- SQL (MySQL – Joins, Aggregations, CASE)
+- Data Cleaning & Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Featured Projects
+- Excel Sales Dashboard
+- Customer Behavior Analysis (Excel)
+- Excel + SQL Sales Analysis *(in progress)*
+
+### 📌 Portfolio
+🔗 https://github.com/Suraj-Shetty08/data-analyst-portfolio.git
