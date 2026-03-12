@@ -14,6 +14,7 @@ translate data into clear business insights.
 ### 📊 Featured Projects
 - Excel Sales Dashboard
 - Customer Behavior Analysis (Excel)
+- Stock Market Volatility Analysis
 - Excel + SQL Sales Analysis *(in progress)*
 
 ### 📌 Portfolio
