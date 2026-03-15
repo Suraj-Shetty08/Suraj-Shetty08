@@ -1,4 +1,4 @@
-## Hi, I'm Suraj 👋
+## Hi, I'm Suraj
 
 Aspiring Data Analyst with hands-on experience in Excel and SQL.
 I focus on data cleaning, analysis, and building dashboards that
@@ -12,10 +12,11 @@ translate data into clear business insights.
 - Data Cleaning & Analysis
 
 ### 📊 Featured Projects
+- IPL Cricket Analysis
+- Hotel Bookings Cancellations Analysis
+- Stock Market Volatility Analysis
 - Excel Sales Dashboard
 - Customer Behavior Analysis (Excel)
-- Stock Market Volatility Analysis
-- Hotel Bookings Cancellations Analysis
 
 ### 📌 Portfolio
 🔗 Check out my featured projects here: https://github.com/Suraj-Shetty08/data-analyst-portfolio.git
